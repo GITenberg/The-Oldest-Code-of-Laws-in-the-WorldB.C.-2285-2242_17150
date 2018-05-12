@@ -1,0 +1,44 @@
+_repo: The-Oldest-Code-of-Laws-in-the-WorldB.C.-2285-2242_17150
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Johns, C. H. W. (Claude Hermann Walter)
+    alias: Johns, Claude Hermann Walter
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '7177'
+    url: http://www.gutenberg.org/2009/agents/7177
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Hermann_Walter_Johns
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hammurabi, King of Babylonia
+    aliases:
+    - Hammu-rapi, King of Babylonia
+    - Hammurapi, King of Babylonia
+    - Hamurabi, King of Babylonia
+    - Hammourabi, King of Babylonia
+    - Chammurapi, King of Babylonia
+    - Khammurabi, King of Babylonia
+    - 6th King of Babylon
+    gutenberg_agent_id: '7173'
+    url: http://www.gutenberg.org/2009/agents/7173
+    wikipedia: http://en.wikipedia.org/wiki/Hammurabi
+description: ''
+gutenberg_issued: '2005-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17150'
+  lccn: '03017247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KL'
+- !lcsh 'Law -- Iraq -- Babylonia -- Sources'
+title: "The Oldest Code of Laws in the World\r\nThe code of laws promulgated by Hammurabi,\
+  \ King of Babylon, B.C. 2285-2242"
+url: http://www.gutenberg.org/ebooks/17150
